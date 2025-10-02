@@ -1,4 +1,3 @@
-# Generative-AI
 # 🧬 FaceForge – Conditional Generative Models for Human Faces
 
 FaceForge is an exploration of **Generative AI** applied to face synthesis.  
